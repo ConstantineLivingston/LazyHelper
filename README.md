@@ -1,3 +1,3 @@
 # LazyHelper
 
-A description of this package.
+Some helper extensions to easy your life
